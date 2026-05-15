@@ -1,7 +1,7 @@
 :root{
     --color1:#fff;
     --color2:#333;
-    --bgColor1:rgb(235, 225, 230);
+    --bgColor1:rgb(238, 226, 230);
     --bgColor2:#e0b0c9;
     --fontFamily: "Times New Roman", sans-serif;
 }
@@ -25,7 +25,7 @@ header{
     color:var(--color1);
     padding:1.5rem;
     text-align:center;
-    box-shadow:0 10px 10px rgba(0, 0, 0, 0.37);
+    box-shadow:0 10px 10px rgba(0,0,0,0.6);
 }
 header h1{
     font-weight:400;

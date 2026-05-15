@@ -25,7 +25,7 @@ header{
     color:var(--color1);
     padding:1.5rem;
     text-align:center;
-    box-shadow:0 10px 10px rgba(0,0,0,0.6);
+    box-shadow:0 10px 10px rgba(255, 255, 255, 0.37);
 }
 header h1{
     font-weight:400;
@@ -99,3 +99,4 @@ footer p{
     justify-content:center;
     font-weight:700;
 }
+
